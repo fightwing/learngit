@@ -1,0 +1,7 @@
+#My configurations:
+*.class
+*.log
+*.jar
+*.war
+*.mtj
+*.tmp
