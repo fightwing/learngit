@@ -1,7 +1,8 @@
-#My configurations:
+#my configurations
 *.class
 *.log
 *.jar
 *.war
 *.mtj
 *.tmp
+
